@@ -1,5 +1,5 @@
 import React from 'react';
-import CarProfile from './components/CarProfile';
+import CarProfile from './components/CarProfile.js';
 import { data as carData } from './data/module-data.js';
 
 function App() {
